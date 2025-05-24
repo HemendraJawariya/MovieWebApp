@@ -11,6 +11,6 @@
 
 ---
 ## Watch the full tutorial on YouTub
-<a href="https://www.youtube.com/watch?v=qOODrGaAZNU&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj">
+<a href="https://youtu.be/qSUe3dRmc2c?si=Id75uTlJwR577Fd-">
   <img src="./image/youtube-ligo.png" alt="youtube"/>
 </a>
